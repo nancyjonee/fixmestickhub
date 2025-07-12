@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://fixmestickaccount.com/">
+
 How to Secure Your FixMeStick Login with Two-Factor Authentication?
 ============================================
 .
